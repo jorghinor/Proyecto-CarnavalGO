@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/perfil/page": "app/perfil/page.js",
+  "/login/page": "app/login/page.js",
+  "/checkout/[id]/page": "app/checkout/[id]/page.js",
+  "/compra-exitosa/page": "app/compra-exitosa/page.js"
+}
